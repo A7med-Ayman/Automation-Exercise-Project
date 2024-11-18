@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Master Suite">
+  <suite-file>
+  <suite-file path ="/AutomationTest/LoginSuite.xml"></suite-file>
+  <suite-file path ="/AutomationTest/RegisterSuite.xml"></suite-file>
+  </suite-file>
+  
+</suite> <!-- Suite -->
+
+

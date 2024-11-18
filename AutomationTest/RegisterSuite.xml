@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Register Suite">
+  <test name="New Resigteration">
+    <classes>
+      <class name="Tests.Register_PostiveTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Register Negative">
+    <classes>
+      <class name="Tests.Register_NegativeTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
+
+
